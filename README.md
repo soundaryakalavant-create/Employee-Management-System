@@ -1,5 +1,6 @@
 # Employee Management System
 
+<<<<<<< HEAD
 Full-stack Employee Management System based on the UI references provided.
 
 ## Technologies
@@ -67,3 +68,25 @@ Frontend:
 Open Sign Up and create an account. Then login.
 
 The authentication is intended as a simple project/demo authentication flow. For a production application, use JWT/session authentication and stronger authorization controls.
+=======
+An Employee Management System built using React.js, Java Spring Boot, and MySQL.
+
+## Features
+- User Login and Registration
+- Employee Dashboard
+- Add Employee Details
+- View Employee Details
+- Update Employee Information
+
+## Technologies Used
+- Frontend: React.js
+- Backend: Java Spring Boot
+- Database: MySQL
+
+## Project Structure
+- frontend: React application
+- backend: Spring Boot application
+
+## Author
+Soundarya Kalavant
+>>>>>>> ee225a08d5970d80d9f458be59e73f6d54cc517e
